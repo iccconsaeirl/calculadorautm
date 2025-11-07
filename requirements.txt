@@ -1,0 +1,14 @@
+streamlit
+pandas
+pyproj
+matplotlib
+openpyxl
+plotly
+kaleido
+scipy
+numpy
+geopandas
+shapely
+contextily
+pillow
+numpy
